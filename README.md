@@ -1,4 +1,4 @@
-This project was created using React (UNFINISHED)
+Another project we had to make to present and to add to our portfolio. This project was created using React.  (UNFINISHED)
 
 <h1 align="center"> Home Page </h1>
 
