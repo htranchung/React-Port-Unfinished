@@ -1,9 +1,17 @@
 This project was created using React (UNFINISHED)
-Home Page
+
+<h1 align="center"> Home Page </h1>
+
 ![](Images/Home.png)
-About Me Page
+
+<h1 align="center"> About Me Page </h1>
+
 ![](Images/About%20Me.png)
-Contact Page
+
+<h1 align="center"> Contact Page </h1>
+
 ![](Images/Contact.png)
-Experience Page
+
+<h1 align="center"> Experience Page </h1>
+
 ![](Images/Experience.png)
